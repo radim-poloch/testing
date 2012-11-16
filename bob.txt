@@ -1,6 +1,6 @@
 hi, i am Bob
 change
-
+bob change on third line
 alice changed fourth line
 
 
