@@ -6,4 +6,4 @@ alice changed fourth line, yet another
 
 
 
-bob multiline file
+bob multiline file, end
