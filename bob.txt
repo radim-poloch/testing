@@ -1,4 +1,4 @@
-hi, i am Bob
+hi, i am Bob, really
 change
 bob change on third line, yet another
 alice changed fourth line, yet another
