@@ -1,12 +1,7 @@
 hi, i am Bob
 change
-<<<<<<< HEAD
 bob change on third line, yet another
-alice changed fourth line
-=======
-bob change on third line
 alice changed fourth line, yet another
->>>>>>> alice change in bob's file, line three, yet another
 
 
 
