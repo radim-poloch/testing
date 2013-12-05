@@ -8,3 +8,4 @@ alice changed fourth line, yet another, next
 bob made feature 2
 
 bob multiline file, end
+bob made feature 2 tuning
