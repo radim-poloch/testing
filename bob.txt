@@ -1,3 +1,4 @@
+bob made feature 1
 hi, i am Bob, really, first
 change
 bob change on third line, yet another, next, new
