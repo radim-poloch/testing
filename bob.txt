@@ -4,6 +4,6 @@ bob change on third line, yet another, next, new
 alice changed fourth line, yet another, next
 
 
-
+bob made feature 2
 
 bob multiline file, end
