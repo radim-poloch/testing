@@ -23,7 +23,7 @@ msgstr "Hola Mundo"
 
 # Example comment
 #. Example pluralized message
-msgid "An example 1"
+msgid "An example 2"
 msgid_plural "%s examples"
 msgstr[0] "Un ejemplo"
 msgstr[1] "%s ejemplos"
