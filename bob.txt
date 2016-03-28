@@ -4,7 +4,7 @@ change
 bob change on third line, yet another, next, new
 alice changed fourth line, yet another, next
 
-
+edit
 
 
 bob multiline file, end
