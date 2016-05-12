@@ -18,7 +18,7 @@ msgstr ""
 "X-Loco-Target-Locale: es_ES\n"
 "X-Generator: Loco - https://localise.biz/"
 
-msgid "Hello World edit 2"
+msgid "Hello World edit 7"
 msgstr "Hola Mundo"
 
 # Example comment
